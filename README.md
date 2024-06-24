@@ -1,14 +1,6 @@
 # pgp-public-key
-<!DOCTYPE html>
-<html>
-<head>
-<title>CBritos2016 github page</title>
-</head>
-<body>
 
 <h1>Welcome</h1>
-
-<p>To my Site.</p>
 
 <p>
 <a href="/crisbritos.asc" download>PGP public key</a> fingerprint </p>
