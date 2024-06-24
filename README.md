@@ -11,7 +11,7 @@
 <p>To my Site.</p>
 
 <p>
-<a href="https://github.com/cbritos2016/cbritos2016.github.io/blob/main/crisbritos.asc" download>PGP public key</a> fingerprint </p>
+<a href="/crisbritos.asc" download>PGP public key</a> fingerprint </p>
 
 <p>
 5D9F 2287 E6BE 9486 4119  2DB5 E291 FF8D 1EE7 282D
